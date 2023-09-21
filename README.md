@@ -24,16 +24,24 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] List anything else that you can get done to improve the app functionality!
-      - To improve this app, I can create genres so that the user can browse movies based off of their genre.
-      - I could also add a search bar to be able to pull any information from the API to view whatever title the user desires.
+
+- To improve this app, I can create genres so that the user can browse movies based off of their genre.
+
+- I could also add a search bar to be able to pull any information from the API to view whatever title the user desires.
 
 ## Video Walkthrough
 
 **Iphone 14 Video Walkthrough**
-<link href="https://youtube.com/shorts/sBD1HfVhJG4?feature=share">
 
-**Ipad Air Gen 6 Video Walkthrough**
-<link href="">
+<a href="https://youtube.com/shorts/sBD1HfVhJG4?feature=share">Click Here To View</a>
+
+[![Watch the video](thumbnail.png)](https://youtube.com/shorts/2EGdxSS8EUo?feature=share)
+
+**Ipad Mini Gen 6 Video Walkthrough**
+
+<a href="https://youtube.com/shorts/2EGdxSS8EUo?feature=share">Click Here To View</a>
+
+[![Watch the video](thumbnail.png)](https://youtube.com/shorts/sBD1HfVhJG4?si=RKRMpF5jbL3SD7xn)
 
 ## Notes
 

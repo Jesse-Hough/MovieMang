@@ -2,7 +2,7 @@
 
 Submitted by: **Jesse Hough**
 
-**MovieMang** is a movie browsing app that allows users to view information about their favorite movies by utilizing The Movie Database API to retrieve all of the data for each title.
+**MovieMang** is a movie browsing app that allows users to view information about their favorite movies by utilizing The Movie Database API to retrieve data for each title.
 
 Time spent: **8** hours spent in total
 
@@ -35,13 +35,15 @@ The following **additional** features are implemented:
 
 <a href="https://youtube.com/shorts/sBD1HfVhJG4?feature=share">Click Here To View</a>
 
-[![Watch the video](thumbnail.png)](https://youtube.com/shorts/2EGdxSS8EUo?feature=share)
+<img src="Iphone14.png" width="200" height="400" alt="Image Description">
+
 
 **Ipad Mini Gen 6 Video Walkthrough**
 
 <a href="https://youtube.com/shorts/2EGdxSS8EUo?feature=share">Click Here To View</a>
 
-[![Watch the video](thumbnail.png)](https://youtube.com/shorts/sBD1HfVhJG4?si=RKRMpF5jbL3SD7xn)
+<img src="IpadMini.png" width="300" height="400" alt="Image Description">
+
 
 ## Notes
 
